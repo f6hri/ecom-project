@@ -1,0 +1,1 @@
+export { ShoppingCartContainer as default } from "./ShoppingCartContainer";
